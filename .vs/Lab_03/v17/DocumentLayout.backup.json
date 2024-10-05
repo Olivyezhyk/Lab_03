@@ -36,10 +36,10 @@
               "RelativeDocumentMoniker": "Lab_03.4\\Lab_03.4.cpp",
               "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_03\\Lab_03.4\\Lab_03.4.cpp",
               "RelativeToolTip": "Lab_03.4\\Lab_03.4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T10:41:01.201Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Lab_03.3\\Lab_03.3.cpp",
               "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_03\\Lab_03.3\\Lab_03.3.cpp",
               "RelativeToolTip": "Lab_03.3\\Lab_03.3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T09:43:21.195Z"
             },
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Lab_03.2\\Lab_03.2.cpp",
               "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_03\\Lab_03.2\\Lab_03.2.cpp",
               "RelativeToolTip": "Lab_03.2\\Lab_03.2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T09:26:03.293Z"
             },
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Lab_03\\Lab_03.1.cpp",
               "ToolTip": "C:\\Users\\olegs\\Desktop\\github\\Lab_03\\Lab_03\\Lab_03.1.cpp",
               "RelativeToolTip": "Lab_03\\Lab_03.1.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T09:10:13.171Z",
               "EditorCaption": ""
